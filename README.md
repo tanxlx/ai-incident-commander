@@ -33,14 +33,14 @@ Built on a scalable, enterprise-ready B2B SaaS framework:
 
 ## 🛠️ Tech Stack & Architecture
 This project is bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) and utilizes modern web tools:
-* **Frontend:** [Next.js](https://nextjs.org) & Tailwind CSS (Centralized, real-time interactive health matrix dashboard)
+* **Frontend:** [Next.js](https://nextjs.org) & [Tailwind CSS](https://tailwindcss.com) (Centralized, real-time interactive health matrix dashboard)
 * **Fonts:** Optimized using [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) with Vercel's [Geist](https://vercel.com/font) family.
 * **Backend:** Python (Flask/FastAPI), custom OS-level metric aggregation scripts.
 * **AI Core:** OpenAI / Gemini API (Intelligent log-parsing and contextual script synthesis).
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started & Execution
 
 ### 1. Clone the repository
 ```bash
